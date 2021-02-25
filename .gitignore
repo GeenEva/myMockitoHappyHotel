@@ -1,6 +1,5 @@
 # Default ignored files
-/shelf/
-/workspace.xml
+workspace.xml
 
 src/main/resources/plugins/*.jar
 out
@@ -18,6 +17,8 @@ out
 .classpath
 .project
 .settings
+
+
 
 # ---- Maven
 target

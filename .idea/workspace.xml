@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9cbd3db-fbf1-4e9a-9589-91789d6d4e10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ef85ed0def4c08562f4b4da35707c3fb8ea0f3d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47b16df353df2fc05dba172046ee0553c93f3932" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/867c205e20c677237f9bfaa6582713cb028faba1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a67c168a79e0dedf9f329e35ce2971190515ea16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce2a133d275ee4b8270b5d487a4ba677769049b0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d06257aa842bd9e8be7b88ca1ee221cad0a057c2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef930e2f8d3e29e081c993a9e427ad8a00ebe16d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mockitotutorial/happyhotel/booking/Test03ReturningCustomValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
