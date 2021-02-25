@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9cbd3db-fbf1-4e9a-9589-91789d6d4e10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ef85ed0def4c08562f4b4da35707c3fb8ea0f3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47b16df353df2fc05dba172046ee0553c93f3932" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/867c205e20c677237f9bfaa6582713cb028faba1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a67c168a79e0dedf9f329e35ce2971190515ea16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce2a133d275ee4b8270b5d487a4ba677769049b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d06257aa842bd9e8be7b88ca1ee221cad0a057c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef930e2f8d3e29e081c993a9e427ad8a00ebe16d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mockitotutorial/happyhotel/booking/Test02DefaultReturnValue.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1oy4elzDIlobLlyWcGkzPepaDJU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6045977" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mockitotutorial.happyhotel.booking" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test02DefaultReturnValue">
+    <configuration name="Test00SanityCheck.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="happyhotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mockitotutorial.happyhotel.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mockitotutorial.happyhotel.booking" />
+      <option name="MAIN_CLASS_NAME" value="com.mockitotutorial.happyhotel.booking.Test00SanityCheck" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01FirstMocks.should_CalculateCorrectPrice_When_CorrectInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="happyhotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mockitotutorial.happyhotel.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mockitotutorial.happyhotel.booking" />
+      <option name="MAIN_CLASS_NAME" value="com.mockitotutorial.happyhotel.booking.Test01FirstMocks" />
+      <option name="METHOD_NAME" value="should_CalculateCorrectPrice_When_CorrectInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02DefaultReturnValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="happyhotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mockitotutorial.happyhotel.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mockitotutorial.happyhotel.booking" />
+      <option name="MAIN_CLASS_NAME" value="com.mockitotutorial.happyhotel.booking.Test02DefaultReturnValue" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02DefaultReturnValue.should_CountAvailablePlaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="happyhotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mockitotutorial.happyhotel.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mockitotutorial.happyhotel.booking" />
+      <option name="MAIN_CLASS_NAME" value="com.mockitotutorial.happyhotel.booking.Test02DefaultReturnValue" />
+      <option name="METHOD_NAME" value="should_CountAvailablePlaces" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test02DefaultReturnValue" />
+        <item itemvalue="JUnit.Test02DefaultReturnValue.should_CountAvailablePlaces" />
+        <item itemvalue="JUnit.Test01FirstMocks.should_CalculateCorrectPrice_When_CorrectInput" />
+        <item itemvalue="JUnit.Test00SanityCheck.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9cbd3db-fbf1-4e9a-9589-91789d6d4e10" name="Default Changelist" comment="" />
+      <created>1614245595164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614245595164</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
