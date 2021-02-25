@@ -9,7 +9,7 @@ import java.time.LocalDate;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
 
-public class Test02DefaultReturnValue {
+class Test02DefaultReturnValue {
 
     private BookingService bookingService;
 
@@ -27,6 +27,10 @@ public class Test02DefaultReturnValue {
 
         this.bookingService = new BookingService(paymentServiceMock, roomServiceMock,
                 bookingDAOMock, mailSenderMock);
+
+        System.out.println("List returned " + roomServiceMock.getAvailableRooms());
+        System.out.println("Object returned " + roomServiceMock.findAvailableRoomId(null));
+        System.out.println("Primitive returned " + roomServiceMock.getRoomCount());
     }
 
     @Test
