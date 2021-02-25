@@ -35,10 +35,11 @@ class Test03ReturningCustomValues {
         //given
         when(this.roomServiceMock.getAvailableRooms()).
                 thenReturn(Collections.singletonList(new Room("Room 1", 2)));
+        int expected = 2;
         //when
-
+        int actual = bookingService.getAvailablePlaceCount();
         //then
-
+        assertEquals(expected, actual);
     }
 
     @Test
