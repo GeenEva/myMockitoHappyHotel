@@ -4,8 +4,11 @@ package com.mockitotutorial.happyhotel.booking;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.util.Collections;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
 
 class Test03ReturningCustomValues {
 
@@ -25,16 +28,13 @@ class Test03ReturningCustomValues {
 
         this.bookingService = new BookingService(paymentServiceMock, roomServiceMock,
                 bookingDAOMock, mailSenderMock);
-
-        System.out.println("List returned " + roomServiceMock.getAvailableRooms());
-        System.out.println("Object returned " + roomServiceMock.findAvailableRoomId(null));
-        System.out.println("Primitive returned " + roomServiceMock.getRoomCount());
     }
 
     @Test
     void should_CountAvailablePlaces_When_OneRoomAvailable(){
         //given
-
+        when(this.roomServiceMock.getAvailableRooms()).
+                thenReturn(Collections.singletonList(new Room("Room 1", 2)));
         //when
 
         //then
