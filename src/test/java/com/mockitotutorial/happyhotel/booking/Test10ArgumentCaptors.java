@@ -6,6 +6,8 @@ import org.junit.jupiter.api.Test;
 import org.mockito.ArgumentCaptor;
 
 import java.time.LocalDate;
+import java.util.Arrays;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.ArgumentMatchers.any;
@@ -55,5 +57,27 @@ public class Test10ArgumentCaptors {
         System.out.println(capturedArgument);
         assertEquals(400.0, capturedArgument);
     }
+
+    @Test
+    void should_PayCorrectPrices_When_MultipleCalls(){
+        //given
+        BookingRequest bookingRequest = new BookingRequest("1", LocalDate.of(2020, 01, 01),
+                LocalDate.of(2020, 01, 5), 2, true);
+        BookingRequest bookingRequest2 = new BookingRequest("1", LocalDate.of(2020, 01, 01),
+                LocalDate.of(2020, 01, 2), 2, true);
+        List<Double> expectedValues = Arrays.asList(400.0, 100.0);
+
+        //when
+        bookingService.makeBooking(bookingRequest);
+        bookingService.makeBooking(bookingRequest2);
+
+        //then
+        verify(paymentServiceMock, times(2))
+                .pay(any(), doubleCaptor.capture());
+        List<Double> capturedArguments = doubleCaptor.getAllValues();
+        System.out.println(capturedArguments);
+        assertEquals(expectedValues, capturedArguments);
+    }
+
 
 }
