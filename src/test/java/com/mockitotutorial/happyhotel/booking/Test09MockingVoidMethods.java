@@ -15,7 +15,7 @@ import static org.mockito.Mockito.doThrow;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-public class Test0MockingVoidMethods {
+public class Test09MockingVoidMethods {
 
     private BookingService bookingService;
     private PaymentService paymentServiceMock;

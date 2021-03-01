@@ -1,17 +1,19 @@
 
+E
+java:S1612",Replace this lambda with a method reference.(ŸëÖùÿÿÿÿ
 G
-java:S16124",Replace this lambda with a method reference.(ŸëÖùÿÿÿÿ
+java:S1612",Replace this lambda with a method reference.(•ÔÜÛ8§ûÍÈı.
+r
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+E
+java:S1612",Replace this lambda with a method reference.(µë©Õşÿÿÿÿ
 G
-java:S1612",Replace this lambda with a method reference.(ŸëÖùÿÿÿÿ
-t
-java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+java:S1612",Replace this lambda with a method reference.(¯¶Ò8§ûÍÈı.
+E
+java:S1612",Replace this lambda with a method reference.(ŸëÖùÿÿÿÿ
 G
-java:S1612*",Replace this lambda with a method reference.(ŸëÖùÿÿÿÿ
-G
-java:S1612",Replace this lambda with a method reference.(µë©Õşÿÿÿÿ
-I
-java:S1612",Replace this lambda with a method reference.(•ÔÜÛ8§ûÍÈı.
-I
-java:S1612",Replace this lambda with a method reference.(•ÔÜÛ8§ûÍÈı.
-I
-java:S1612",Replace this lambda with a method reference.(¯¶Ò8§ûÍÈı.
+java:S1612",Replace this lambda with a method reference.(•ÔÜÛ8§ûÍÈı.
+E
+java:S1612",Replace this lambda with a method reference.(ŸëÖùÿÿÿÿ
+Z
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ8²¤æëı.
